@@ -8,3 +8,4 @@ def generate_password(length: int = 10): #Defines the function that takes the pa
 
 password = generate_password() #Calling of the function
 print(f"Generated Password: {password}") #Prints the generated password
+ 
